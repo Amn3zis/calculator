@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CalculatorApp</string>
+    <string name="app_name">Калькулятор</string>
+    <string name="text1">Об авторе</string>
+    <string name="text2">Честно, не знаю, что сказать... Учусь, работаю...</string>
 </resources>
