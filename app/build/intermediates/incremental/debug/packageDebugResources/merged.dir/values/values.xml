@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Калькулятор</string>
+    <string name="text1">ОБ авторе</string>
+    <string name="text2">Честно, не знаю, что сказать... Учусь, работаю...</string>
+    <style name="Base.Theme.CalculatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CalculatorApp" parent="Base.Theme.CalculatorApp"/>
+</resources>
